@@ -1,0 +1,14 @@
+{
+    "attributes": [
+      {
+        "color": "Blue",
+        "value": "ABC"
+      }
+    ],
+    "description": "Hotel Image",
+    "image": "https://gateway.pinata.cloud/ipfs/QmVkjKWDVFqmHHLdyh9hNRBHyrMsAiBG86ongkV19R24Zs",
+    "name": "Hotel name",
+    "locking":10,
+    "hotel per year night":30
+
+  }
